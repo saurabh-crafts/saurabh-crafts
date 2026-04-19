@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/saurabh-crafts/saurabh-crafts/output/snake.svg" alt="Snake animation" />
 
 ###
